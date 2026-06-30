@@ -1,0 +1,28 @@
+<html>
+
+<head>
+
+<title> </title>
+
+</head>
+
+<body bgcolor="lightblue" text="whrite">hola bienvenidos a mi primera pagina web y mi autobiografia.
+
+<center><img src="  "></center>
+
+<p> </p>
+
+<p>.</p> 
+
+<p>Ella .</p>
+
+
+
+<img src="" style="width: 250px; height: 50%;">
+
+
+
+
+</body>
+
+</html
